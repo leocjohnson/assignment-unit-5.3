@@ -1,6 +1,8 @@
 console.log('***** Music Collection *****')
 // Safe Zone -- Write code below this line
 
+let collection1 = [];
+let collection2 = [];
 
 
 
@@ -9,6 +11,8 @@ console.log('***** Music Collection *****')
 
 
 
+
+console.log(' --- test code below --- ');
 // PLEASE DO NOT MODIFY THIS. Just leave it down here at the bottom. Think of it
 // as a lil' chunk of friendly code that you don't need to understand right now.
 // (It's used for automated testing.)
