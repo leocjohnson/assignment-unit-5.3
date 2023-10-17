@@ -3,8 +3,13 @@ console.log('***** Music Collection *****')
 
 let collection1 = [];
 let collection2 = [];
+console.log('Here are my record collections! Take a look:');
+console.log('Collection one:', collection1);
+console.log('Collection Two:', collection2);
 
-
+function addToCollection(collection, title, artist, yearPublished){
+  
+}
 
 
 
