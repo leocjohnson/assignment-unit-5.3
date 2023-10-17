@@ -2,24 +2,26 @@ console.log('***** Music Collection *****')
 // Safe Zone -- Write code below this line
 
 let myCollection = [];
+
 console.log('Here is my record collection! Take a look:');
 console.log(myCollection);
 
-
 function addToCollection(collection, title, artist, yearPublished){
-  if(collection===collection1){
-      let 
-    return true;
-  }else if(collection===collection2){
-    
-    return true;
+  if(collection===myCollection){
+    let newRecord = {
+      title: title,
+      artist: artist,
+      yearPublished: yearPublished
+    }
+    myCollection.push(newRecord);
+    return newRecord;
   }else{
     console.log('No such collection. Try again!');
     return false;
   }
 }
 
-
+addToCollection(myCollection, 'Flood', 'Boris', 2000);
 
 
 
