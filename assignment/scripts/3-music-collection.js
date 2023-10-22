@@ -21,24 +21,24 @@ function addToCollection(collection, title, artist, yearPublished){
   }
 }
 
-console.log(addToCollection(myCollection, 'Only A Lad', 'Oingo Boingo', 1981));
-console.log(addToCollection(myCollection, 'System Of A Down', 'System Of A Down', 1998));
-console.log(addToCollection(myCollection, 'Hybrid Theory', 'Linkin Park', 2000));
-console.log(addToCollection(myCollection, 'Tired Of Tomorrow', 'Nothing', 2016));
-console.log(addToCollection(myCollection, 'Hold Your Horse Is', 'Hella', 2002));
-console.log(addToCollection(myCollection, 'Fantastic Planet', 'Failure', 1996));
-console.log(addToCollection(myCollection, 'Hey What', 'Low', 2021));
-console.log(addToCollection(myCollection, 'I Could Live In Hope', 'Low', 1994));
-console.log(addToCollection(myCollection, 'Akuma No Uta', 'Boris', 2003));
-console.log(addToCollection(myCollection, 'Bleach', 'Nirvana', 1989));
-console.log(addToCollection(myCollection, 'In Utero', 'Nirvana', 1993));
-console.log(addToCollection(myCollection, 'H.A.Q.Q.', 'Liturgy', 2019));
-console.log(addToCollection(myCollection, 'The Ark Work', 'Liturgy', 2015));
-console.log(addToCollection(myCollection, 'Loveless', 'My Bloody Valentine', 1991));
-console.log(addToCollection(myCollection, 'Isn\'t Anything', 'My Bloody Valentine', 1988));
-console.log(addToCollection(myCollection, 'A Brief Memoriam', 'Frail Body', 2019));
-console.log(addToCollection(myCollection, 'Blake Mills', 'Blake Mills', 2010));
-console.log(myCollection);
+// console.log(addToCollection(myCollection, 'Only A Lad', 'Oingo Boingo', 1981));
+// console.log(addToCollection(myCollection, 'System Of A Down', 'System Of A Down', 1998));
+// console.log(addToCollection(myCollection, 'Hybrid Theory', 'Linkin Park', 2000));
+// console.log(addToCollection(myCollection, 'Tired Of Tomorrow', 'Nothing', 2016));
+// console.log(addToCollection(myCollection, 'Hold Your Horse Is', 'Hella', 2002));
+// console.log(addToCollection(myCollection, 'Fantastic Planet', 'Failure', 1996));
+// console.log(addToCollection(myCollection, 'Hey What', 'Low', 2021));
+// console.log(addToCollection(myCollection, 'I Could Live In Hope', 'Low', 1994));
+// console.log(addToCollection(myCollection, 'Akuma No Uta', 'Boris', 2003));
+// console.log(addToCollection(myCollection, 'Bleach', 'Nirvana', 1989));
+// console.log(addToCollection(myCollection, 'In Utero', 'Nirvana', 1993));
+// console.log(addToCollection(myCollection, 'H.A.Q.Q.', 'Liturgy', 2019));
+// console.log(addToCollection(myCollection, 'The Ark Work', 'Liturgy', 2015));
+// console.log(addToCollection(myCollection, 'Loveless', 'My Bloody Valentine', 1991));
+// console.log(addToCollection(myCollection, 'Isn\'t Anything', 'My Bloody Valentine', 1988));
+// console.log(addToCollection(myCollection, 'A Brief Memoriam', 'Frail Body', 2019));
+// console.log(addToCollection(myCollection, 'Blake Mills', 'Blake Mills', 2010));
+// console.log(myCollection);
 
 function showCollection(collection){
   while(collection){
